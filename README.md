@@ -11,8 +11,11 @@ Primeros pasos:
 Es necesario instalar la libreria learn you know 
 
 $ mkdir learnyounode 
+
 $ cd learnyounode 
+
 $ sudo npm install -g learnyounode 
+
 $ learnyounode
 
 
